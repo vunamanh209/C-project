@@ -1,5 +1,6 @@
 #include<stdio.h>
-
+/* Write a program that asks the user for a number and then prints the multiplication table for that number.
+The program should continue to prompt for numbers until the user enters 0. */
 int main() {
 	int number,i ;
 	
