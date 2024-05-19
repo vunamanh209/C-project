@@ -10,7 +10,7 @@ int main() {
     for (i = 0; i < 10; ++i) {
         printf("Enter the %d number: ", i + 1);
         scanf("%d", &numbers[i]);
-		sum += numbers[i];
+	sum += numbers[i];
     }
     average = sum / 10;
 
