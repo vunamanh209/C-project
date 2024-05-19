@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// The average total of 10 numbers depends on the user
+// The average of the elements in the array depends on the user
 int main() {
     int numbers[10];
     int i;
