@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Calculate the sum of even numbers in an array of integers.
 int main() {
     int n;
     int arr[n];
