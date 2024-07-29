@@ -9,9 +9,8 @@ int main(int argc, char *argv[]) {
 	double sum = 0;
 	
 	for(i; i <= 10; i++){
-		
-		printf("Enter number %d: ", i);
-      	scanf("%lf", &number);
+		printf("Enter number %d: ", I);
+      		scanf("%lf", &number);
       	
 		if(number < 0){
 			break;
