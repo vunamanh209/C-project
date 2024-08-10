@@ -14,6 +14,6 @@ int main(int argc, char *argv[]) {
         S = S + i * i * i;
         i++;
     }
-    printf("\nTong la %d", S);
+    printf("\nTotal: %d", S);
 	return 0;
 }
