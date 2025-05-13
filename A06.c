@@ -1,3 +1,5 @@
+//Nhap 1 so tu nhien n roi dem cac so tu nhien khong lon hon n va chia 3 du 1
+
 #include<stdio.h>
 
 int main(){

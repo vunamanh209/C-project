@@ -1,3 +1,5 @@
+//Nhap ba so a,b,c de xem 3 so day co phai do dai cac canh cua 1 tam giac khong
+
 #include<stdio.h>
 
 int main(){

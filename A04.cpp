@@ -1,3 +1,5 @@
+//Nhap so tu nhien n roi tinh tong cac so khong lon hon n va khong chia het cho 7
+
 #include<stdio.h>
 
 int main(){

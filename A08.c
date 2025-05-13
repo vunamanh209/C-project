@@ -1,3 +1,5 @@
+//Nhap so n va day cac so thuc a[0], a[1],...,a[n-1] va tim so lon nhat trong nay
+
 #include <stdio.h>
 
 int main() {
@@ -17,7 +19,7 @@ int main() {
         scanf("%f", &a[i]);
     }
 
-    // Tìm số lớn nhất
+    // Tim so lon nhat
     float max = a[0];
     for (int i = 1; i < n; i++) {
         if (a[i] > max) {
@@ -25,7 +27,7 @@ int main() {
         }
     }
 
-    // In kết quả
+    // in ket qua
     printf("The largest number is: %.2f\n", max);
 
     return 0;

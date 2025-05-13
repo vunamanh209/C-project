@@ -1,3 +1,5 @@
+//Nhap so tu nhien n roi tinh tong cac so khong lon hon n va chia het cho 7.
+
 #include<stdio.h>
 
 int main(){
@@ -13,7 +15,7 @@ int main(){
 			S += i;
 		}
 	}
-	printf("Total of number smaller than n and divisible by 7: %d\n", S);
+	printf("Total of number less than n and divisible by 7: %d\n", S);
 	
 	return 0;
 }
